@@ -41,6 +41,7 @@ st.markdown("""
         border-radius: 0.5rem;
         border-left: 5px solid #3182CE; /* Blue left border */
         margin-bottom: 1rem;
+	color: #374151;
     }
     .footer {
         text-align: center;
